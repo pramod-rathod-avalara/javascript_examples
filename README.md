@@ -1,3 +1,3 @@
-# node_js_examples
-Sample programs to help you learn node js basics.
+# javascript_examples
+Sample programs to help you learn javasript basics.
 
